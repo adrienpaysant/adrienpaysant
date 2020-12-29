@@ -1,3 +1,7 @@
+### Hello World :computer:
+
+- 🔭 I’m currently studying at He-Arc in Switzerland and UTBM in France
+
 
 ## GitHub <img align="center" src="https://img.shields.io/github/followers/adrienpaysant?style=social" alt="adrienpaysant" />
 
