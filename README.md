@@ -1,7 +1,7 @@
 ### Hello World :computer:
 
 - 🔭 I’m currently studying at <a href="https://www.utbm.fr">UTBM</a> in France after an exchange degree at <a href="https://www.he-arc.ch">HE-Arc</a> in Switzerland. 
-- :rocket: Currently learning about Networks & Infrastructures.
+- :rocket: Currently learning about Networks Security.
 - :mortar_board: Bachelor in Software Dev & Multimedia from <a href="https://www.he-arc.ch">HE-Arc</a>. 
 
 
