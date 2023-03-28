@@ -7,7 +7,7 @@
 
 🛠️**Skills :floppy_disk:**
 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png"></code> aws
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png"></code>
 <code><img height="30" src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg"></code> 
 <code><img height="30" src="https://www.circlecloud.co.uk/media/seo_page_section_image/Microsoft_Azure.png.458x303_q85_crop_upscale@2x.png"></code>
 <code><img height="30" src="https://gitedu.hesge.ch/uploads/-/system/project/avatar/3221/ci-cd.png"></code>
