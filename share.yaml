@@ -1,0 +1,21 @@
+# Utilisez l'image officielle de Drupal 8
+FROM drupal:8-apache
+
+# Mise à jour et installation de Nginx
+RUN apt-get update \
+    && apt-get install -y nginx \
+    && rm -rf /var/lib/apt/lists/*
+
+# Supprimez la configuration Apache par défaut
+RUN rm -rf /etc/apache2/sites-available/000-default.conf \
+    && rm -rf /etc/apache2/sites-enabled/000-default.conf
+
+# Ajoutez la configuration Nginx
+COPY nginx/default /etc/nginx/sites-available/default
+RUN ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+
+# Exposez le port 80 pour Nginx
+EXPOSE 80
+
+# Commande par défaut pour lancer les services nécessaires
+CMD ["nginx", "-g", "daemon off;"]
