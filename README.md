@@ -1,6 +1,6 @@
 ### Hello World :computer:
 
-- 🔭 I’m currently intern at <a  href="https://fr.ippon.tech/">Ippon Technologies Paris</a> in Cloud & DevOps.
+- 🔭 I’m working at <a  href="https://fr.ippon.tech/">Ippon Technologies Paris</a> as Cloud & DevOps engineer.
 - :rocket: Networks & Security Engineering degree from <a href="https://www.utbm.fr">UTBM</a>.
 - :mortar_board: Bachelor in Software Dev & Multimedia from <a href="https://www.he-arc.ch">HE-Arc</a>. 
 
